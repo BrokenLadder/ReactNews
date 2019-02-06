@@ -1,0 +1,70 @@
+.myButtons{
+    background:#111;
+    color: #83d0f2;
+    padding:10px;
+    width:7%;
+}
+.myButtons:hover{
+    color:#ffffff;
+}
+input{
+    padding:5px; 
+    border:1px solid #83d0f2;
+    background:#444444; 
+    color: #83d0f2; 
+    cursor:pointer; 
+}
+input:focus {
+    border-color:#333; 
+}
+#formDiv{
+    padding:5px;
+    /* border:2px solid #83d0f2; */
+    background:#333333; 
+    color: #83d0f2; 
+}
+button, submit { 
+    border:none; 
+} 
+body{
+    background: #333;
+}
+#buttonContainer{
+    width:100%;
+    background: #111;
+}
+.images{
+    border-radius: 8px;
+    padding: 5px;
+}
+.centerImages {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+.newsArticleContainer{
+    color:#fff;
+    border:2px #83d0f2;
+}
+.authors{
+    color:#83d0f2;
+    width: 70%;
+}
+#hideMe{
+    visibility: hidden;
+}
+.anchors{
+    color: #83d0f2;
+}
+#logo{
+    width:40px;
+    vertical-align: middle;
+    display: inline-block;
+}
